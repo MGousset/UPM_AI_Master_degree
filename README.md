@@ -11,3 +11,7 @@ This repos containing :
 
 - Dataset folder which containing to xml files.
 - Notebooks folder
+
+- Report Folder Where I quickly present the aim of the project and how I managed to solve the problem.
+It's is composed by two report entiltled 'PRDL' and 'MLLB'. The PRDL report aim to present the ML approaches in a theorical way 
+where the 'MLLB' present how I implemented those ideas in google colab using differents python libraries specialized in ML.
